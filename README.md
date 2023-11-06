@@ -75,6 +75,11 @@ You can customize the bot's behavior by editing the `config.json` file.
 }
 ```
 
+### Result
+
+This is how the bot will be once it is finished
+![OUTPUT]()
+
 ### Contribute
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
