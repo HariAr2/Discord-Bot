@@ -78,7 +78,7 @@ You can customize the bot's behavior by editing the `config.json` file.
 ### Result
 
 This is how the bot will be once it is finished
-![OUTPUT]()
+![OUTPUT](https://github.com/HariAr2/Discord-Bot/blob/main/bot.png)
 
 ### Contribute
 
