@@ -12,7 +12,8 @@ This is a simple Discord bot that performs basic functions in your Discord serve
 - [ /intro ] Command 2: Introduces itself.
 - [ /server ] Command 3: Describes the server details.
 - [ /user ] Command 4: Describes info about the user.
-- [ /bye ] Command 1: Says Bye.
+- [ /bye ] Command 5: Says Bye.
+- [ /spam ] Command 6: Spams a Word for 20 times.
 
  Getting Started:
 
