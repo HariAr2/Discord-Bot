@@ -91,6 +91,8 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 - Thanks to the [Discord.js](https://discord.js.org/) library for making it easy to build Discord bots with slash commands.
 
 Happy Botting with Slash Commands!
+
+
 ```
 By
     -Hari Aravindh
