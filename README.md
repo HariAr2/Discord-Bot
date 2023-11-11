@@ -16,6 +16,7 @@ This is a simple Discord bot that performs basic functions in your Discord serve
 - [ /user ] Command 4: Describes info about the user.
 - [ /bye ] Command 5: Says Bye.
 - [ /spam ] Command 6: Spams a Word for 20 times.
+- [ /translate ] Command 7: Translate a word from English to French
 
  Getting Started:
 
