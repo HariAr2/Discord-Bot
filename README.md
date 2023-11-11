@@ -26,7 +26,7 @@ This is a simple Discord bot that performs basic functions in your Discord serve
 ```
   Installation
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine: 
 
    ```bash
    git clone https://github.com/yourusername/your-discord-bot.git
