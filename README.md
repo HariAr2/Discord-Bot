@@ -45,7 +45,7 @@ This is a simple Discord bot that performs basic functions in your Discord serve
    npm install
    ```
 
-4. Create a `.env` file in the project root and add your Discord bot token:
+4. Create a `.json` file in the project root and add your Discord bot token:
 
    ```
    DISCORD_BOT_TOKEN=your-bot-token-here
@@ -56,7 +56,8 @@ This is a simple Discord bot that performs basic functions in your Discord serve
 1. Start the bot:
 
    ```bash
-   npm start
+   node index.js
+   node deploy-commands.js
    ```
 
 2. The bot will be online in your Discord server and ready to respond to slash commands.
@@ -74,8 +75,8 @@ You can customize the bot's behavior by editing the `config.json` file.
 
 ```json
 {
-  "prefix": "/",
-  "defaultVolume": 50
+  "clientId": "THE_CLIENT_ID",
+  "token": "THE_TOKEN_ID _OF_THE_BOT"
 }
 ```
 
