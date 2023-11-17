@@ -16,7 +16,7 @@ module.exports = {
     if (!query) return await interaction.reply('Please enter a word to translate');
 
     try {
-      const translated = await translate(query, { from:'en', to: 'fr' });
+      const translated = await translate(query, { from:'en', to: 'ko' });//language code that uses ISO 639-1 so 'ko'-korean 'en'-english 'ja'-japanese
       await interaction.reply(translated.text);
     } catch (error) {
       console.error(error);
