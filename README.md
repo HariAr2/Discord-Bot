@@ -13,7 +13,7 @@ This is a simple Discord bot that performs basic functions in your Discord serve
 - [ /hi ] Command 1: Says Hello.
 - [ /intro ] Command 2: Introduces itself.
 - [ /server ] Command 3: Describes the server details.
-- [ /user ] Command 4: Describes info about the user.
+- [ /user ] Command 4: Describes info about the user. 
 - [ /bye ] Command 5: Says Bye.
 - [ /spam ] Command 6: Spams a Word for 20 times.
 - [ /translate ] Command 7: Translate a word from English to French
