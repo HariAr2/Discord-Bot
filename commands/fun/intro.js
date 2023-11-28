@@ -8,3 +8,4 @@ module.exports = {
 		await interaction.reply(`Hello there  ${interaction.user.username} my name is brook nice to meet you.`);
 	},
 };
+  
