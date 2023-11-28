@@ -5,6 +5,6 @@ module.exports = {
 		.setName('intro')
 		.setDescription('introduce itself'),
 	async execute(interaction) {
-		await interaction.reply(`Hello there good ${interaction.user.username} my name is brook nice to meet you.`);
+		await interaction.reply(`Hello there  ${interaction.user.username} my name is brook nice to meet you.`);
 	},
 };
