@@ -39,13 +39,8 @@ This is a simple Discord bot that performs basic functions in your Discord serve
    cd your-discord-bot
    ```
 
-3. Install the required dependencies:
 
-   ```bash
-   npm install
-   ```
-
-4. Create a `.json` file in the project root and add your Discord bot token:
+3. Create a `.json` file in the project root and add your Discord bot token:
 
    ```
    DISCORD_BOT_TOKEN=your-bot-token-here
