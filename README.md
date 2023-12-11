@@ -71,7 +71,7 @@ To interact with the bot, simply type `/` in the chat and select the appropriate
 
 ### Configuration
 
-You can customize the bot's behavior by editing the `config.json` file.
+You can customize the bot's behavior by editing the `config.json` file. 
 
 ```json
 {
