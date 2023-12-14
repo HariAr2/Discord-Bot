@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path'); 
 const { Client, Collection, Events, GatewayIntentBits } = require('discord.js');
 const { token } = require('./config.json');
+// need documentation
 
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
