@@ -9,7 +9,7 @@ This is a simple Discord bot that performs basic functions in your Discord serve
 
  
  Features:
-
+ 
 - [ /hi ] Command 1: Says Hello.
 - [ /intro ] Command 2: Introduces itself.
 - [ /server ] Command 3: Describes the server details.
