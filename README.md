@@ -5,7 +5,7 @@
   
  Description:
 
-This is a simple Discord bot that performs basic functions in your Discord server using slash (/) commands. It's designed to be easy to use and a great starting point for building more complex bots with slash commands.
+This is a simple Discord bot that performs basic functions in your Discord server using slash (/) commands. It's designed to be easy to use and a great starting point for  building more complex bots with slash commands.
 
  
  Features: 
